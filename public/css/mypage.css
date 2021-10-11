@@ -1,0 +1,108 @@
+.mpBox {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.upper {
+  border-bottom: 3px solid #666;
+  margin: 0 auto;
+  width: 40%;
+}
+
+.upper h1 {
+  color: rgb(85, 85, 85);
+  font-weight: bold;
+}
+
+.upper a {
+  text-decoration: none;
+  color: #8c8c8c;
+}
+
+.upper a:hover {
+  transition: 0.5s;
+  color: rgb(87, 87, 87);
+  text-decoration: underline;
+}
+
+.upper p {
+  text-align: right;
+  font-size: 13px;
+  margin-right: 10px;
+}
+
+.mpContents {
+  width: 70%;
+  margin: 40px auto;
+
+}
+
+.mpContents p {
+  font-size: 18px;
+  font-weight: bold;
+  position: relative;
+  display: inline-block;
+  margin-bottom: 2em;
+}
+
+.mpContents p:before {
+  content: '';
+  position: absolute;
+  bottom: -15px;
+  display: inline-block;
+  width: 50px;
+  height: 3.5px;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  background-color: #8c8c8c;
+  border-radius: 3px;
+}
+
+td a {
+  text-decoration: none;
+  color: #8c8c8c;
+}
+
+td a:hover {
+  transition: 0.5s;
+  color: rgb(87, 87, 87);
+  text-decoration: underline;
+}
+
+.button-panel .button {
+  background: #f8a353;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  height: 50px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.2em;
+  letter-spacing: 0.05em;
+  text-align: center;
+  text-transform: uppercase;
+  transition: background 0.3s ease-in-out;
+  width: 30%;
+  border-radius: 3px;
+  margin-top: 20px;
+}
+
+.button:hover {
+  background: #ee843e;
+}
+
+.button.last {
+  background: #f16272
+}
+.button.last:hover {
+  background: #ee3e52;
+}
+
+.serch {
+  width: 30%;
+  margin: 30px auto;
+}
+
+.like {
+  cursor: pointer;
+}
