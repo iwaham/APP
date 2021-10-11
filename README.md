@@ -2,7 +2,7 @@
 
 ロゴ
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92156290/136860699-80986928-0703-4784-94e3-6b8429522422.png" alt="altテキスト" width="800px">
+  <img src="https://user-images.githubusercontent.com/92156290/136860699-80986928-0703-4784-94e3-6b8429522422.png" alt="altテキスト" width="500px">
 </p>
 
 ---
