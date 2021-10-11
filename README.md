@@ -1,7 +1,9 @@
 # Eone
 
 ロゴ
-  <img width="1440" alt="スクリーンショット 2020-10-11 12 18 07" src="![logo](https://user-images.githubusercontent.com/92156290/136860699-80986928-0703-4784-94e3-6b8429522422.png)">
+<p align="center">
+  <img src="![logo](https://user-images.githubusercontent.com/92156290/136860699-80986928-0703-4784-94e3-6b8429522422.png)" alt="altテキスト" width="800px">
+</p>
 
 ---
 概要、設計書は設計書ディレクトリ参照
