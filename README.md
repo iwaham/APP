@@ -21,6 +21,7 @@ PHP 7.4.12
 ### フロントエンド
 HTML5 <br/>
 CSS3 <br/>
+Bootstrap5
 
 ---
 ### DB
